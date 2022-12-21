@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x8PDLLd7nE3O42lN6s8F8Q0Ev5M3QsFGyAHdrs5wCub0RLNBMSU4s1bH0dRfJr1XG7AA3tYs20W3ylH3LJ2x3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vinicius.bach\\source\\repos\\Testes_Vini\\Testes_Vini\\Testes_Vini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vinicius.bach\\.nuget\\packages\\mysqlconnector\\2.2.2\\mysqlconnector.2.2.2.nupkg.sha512"
+  ],
+  "logs": []
+}
